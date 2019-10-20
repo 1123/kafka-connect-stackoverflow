@@ -1,0 +1,4 @@
+.idea/
+dummysinkconnector.iml
+target/
+docker/kafka-connect-stackoverflow*.zip
